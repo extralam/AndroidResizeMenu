@@ -1,2 +1,0 @@
-# AndroidResizeMenu
-Android Resize Menu
